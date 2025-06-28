@@ -25,8 +25,8 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Golden Sun | Characters render below carpet (OAM priority hijacking) | ![](https://user-images.githubusercontent.com/2696404/82008338-fd7c4380-969e-11ea-9a35-3a5d15caf287.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/99 |
 | Golden Sun | Characters render below carpet (OAM priority hijacking) | ![](https://user-images.githubusercontent.com/13669774/84211999-f806f300-aabc-11ea-8b2b-931d5795d1a5.png) | https://github.com/jsmolka/eggvance/issues/3 |
 | Golden Sun | Resets if any key is pressed | | https://github.com/nba-emu/NanoBoyAdvance/issues/133 |
-| Golden Sun | Entering battles and overworld break game | | https://github.com/mattrberry/crab/commit/7444832 |
-| Golden Sun | Overworld shakes and flashes wildly | | https://github.com/mattrberry/crab/commit/71131ac |
+| Golden Sun | Entering battles and overworld break game | | https://github.com/mattrbeck/crab/commit/7444832 |
+| Golden Sun | Overworld shakes and flashes wildly | | https://github.com/mattrbeck/crab/commit/71131ac |
 | Golden Sun | Intro bleep sounds bad | | https://github.com/jsmolka/eggvance/issues/14 |
 | Gradius Galaxies | Black screen on boot | ![](https://user-images.githubusercontent.com/1358414/162591803-acefc6a5-29b8-4e27-bab7-f5f8bd6c4615.png) | https://github.com/DaveTCode/GBADotnet/issues/66 |
 | Gradius Galaxies | Locks up after start message | | https://github.com/DaveTCode/GBADotnet/issues/82 |
@@ -37,20 +37,20 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Fire Emblem: The Sacred Stones | Blue line at top of screen in cutscenes | ![](https://user-images.githubusercontent.com/13669774/133418382-d45cbcf2-312f-493c-b909-7addff75e6b4.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/175 |
 | Hamtaro Rainbow Rescue | Freezes on Spanish language selection | | https://github.com/nba-emu/NanoBoyAdvance/issues/91 |
 | Iridion 3D | Intro line glitches | ![](https://user-images.githubusercontent.com/13669774/133425829-fc5f8176-db4e-4680-88bd-e1c8471b7280.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/176 |
-| Kirby: Nightmare in Dream Land | Audio clicks | | https://github.com/mattrberry/crab/commit/6c57508 |
+| Kirby: Nightmare in Dream Land | Audio clicks | | https://github.com/mattrbeck/crab/commit/6c57508 |
 | Lara Croft Tomb Raider - Legends (USA) | Stuck on black screen | | https://github.com/nba-emu/NanoBoyAdvance/issues/183 |
 | Mario & Luigi: Superstar Saga | Random hangs in intro and elsewhere | ![](https://user-images.githubusercontent.com/13669774/66221167-bbcdf800-e6ce-11e9-916a-4d1ef3971c55.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/64 |
 | Mario & Luigi: Superstar Saga | Text not appearing in the intro | | https://github.com/nba-emu/NanoBoyAdvance/issues/64 |
 | Mario & Luigi: Superstar Saga | Random white noise | | https://github.com/jsmolka/eggvance/issues/19 |
-| Mario & Luigi: Superstar Saga | Missing sprites on title screen | ![](https://user-images.githubusercontent.com/22065329/175761043-eea29bd6-f09e-4785-87c4-752c47921c68.png) | https://github.com/mattrberry/crab/issues/8 |
-| Mario & Luigi: Superstar Saga | Messed up graphics in start screen | ![](https://user-images.githubusercontent.com/22065329/175761076-ae4f147a-ed51-4890-938b-9ba9e05586f9.png) | https://github.com/mattrberry/crab/issues/9 |
-| Mario & Luigi: Superstar Saga | Completely borked graphics in game | ![](https://user-images.githubusercontent.com/22065329/175761095-748e07f8-8ebf-48d3-ae05-80791df12e09.png) | https://github.com/mattrberry/crab/issues/10 |
-| Mario & Luigi: Superstar Saga | Missing graphics in pause screen | | https://github.com/mattrberry/crab/issues/11 |
+| Mario & Luigi: Superstar Saga | Missing sprites on title screen | ![](https://user-images.githubusercontent.com/22065329/175761043-eea29bd6-f09e-4785-87c4-752c47921c68.png) | https://github.com/mattrbeck/crab/issues/8 |
+| Mario & Luigi: Superstar Saga | Messed up graphics in start screen | ![](https://user-images.githubusercontent.com/22065329/175761076-ae4f147a-ed51-4890-938b-9ba9e05586f9.png) | https://github.com/mattrbeck/crab/issues/9 |
+| Mario & Luigi: Superstar Saga | Completely borked graphics in game | ![](https://user-images.githubusercontent.com/22065329/175761095-748e07f8-8ebf-48d3-ae05-80791df12e09.png) | https://github.com/mattrbeck/crab/issues/10 |
+| Mario & Luigi: Superstar Saga | Missing graphics in pause screen | | https://github.com/mattrbeck/crab/issues/11 |
 | Mario Kart: Super Circuit | Bottom half of screen doesn't render | ![](https://user-images.githubusercontent.com/47043333/163018288-0f72acea-6ac5-41a5-b29d-6bd57b76746d.png) | https://github.com/ITotalJustice/notorious_beeg/issues/45 |
 | Mario Kart: Super Circuit | Track doesn't render | ![](https://user-images.githubusercontent.com/1358414/162591717-ef168c25-9cab-497f-b9a8-2f2c3f88944a.png) | https://github.com/DaveTCode/GBADotnet/issues/65 |
 | Mario Kart: Super Circuit | Sprites don't render properly on character selection | ![](https://user-images.githubusercontent.com/1358414/162591665-de2e9b8e-ce71-476f-b519-dd5c325af7fd.png) | https://github.com/DaveTCode/GBADotnet/issues/64 |
 | Mario Kart: Super Circuit | Track doesn't render properly | ![](https://user-images.githubusercontent.com/1358414/164802235-100832ad-77d2-470b-b55a-e137299d65a7.png) | https://github.com/DaveTCode/GBADotnet/issues/78 |
-| Mario Kart: Super Circuit | Track doesn't render properly | | https://github.com/mattrberry/crab/commit/a2ccafe |
+| Mario Kart: Super Circuit | Track doesn't render properly | | https://github.com/mattrbeck/crab/commit/a2ccafe |
 | Mario vs. Donkey Kong (USA, Australia) | Sprites glitch near doors or other objects | ![](https://user-images.githubusercontent.com/2696404/82133445-d2b8f900-981e-11ea-80cf-130ce68dcb92.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/106 |
 | Mega Man Zero (U) | Title cut off on title screen | ![](https://user-images.githubusercontent.com/39786450/172510869-168060f4-c442-436d-8702-936af27cfab9.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/223 |
 | Mega Man Zero | No sound | | https://github.com/jsmolka/eggvance/issues/13 |
@@ -58,16 +58,16 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Mother 3 | Softlock when sleeping | ![](https://user-images.githubusercontent.com/29958696/113520158-7de6b400-9591-11eb-9173-2d2efa132ee9.png) | https://github.com/jsmolka/eggvance/issues/20 |
 | Mother 3 | White bars in intro don't animate into frame | ![](https://user-images.githubusercontent.com/29958696/115428866-1f613d00-a203-11eb-842f-daaf937a1b25.png) | https://github.com/jsmolka/eggvance/issues/22 |
 | OpenLara | Flickers on the bottom half of the screen | | https://github.com/DaveTCode/GBADotnet/issues/29 |
-| OpenLara | Flickers on the bottom half of the screen | | https://github.com/mattrberry/crab/issues/4 |
+| OpenLara | Flickers on the bottom half of the screen | | https://github.com/mattrbeck/crab/issues/4 |
 | Phantasy Star | Text and lines flash during intro | | https://github.com/nba-emu/NanoBoyAdvance/issues/109 |
 | Phoenix Wright: Ace Attorney | Text missing on second line of NPC dialog | ![](https://user-images.githubusercontent.com/47043333/161538504-55217438-ed2c-4f04-8c5a-bdd8cb427e05.png) | https://github.com/ITotalJustice/notorious_beeg/issues/27 |
 | Pinball Tycoon (USA) | Scoreboard doesn't render | ![](https://user-images.githubusercontent.com/2696404/81907935-18957780-95fb-11ea-85c9-36c0b8fdf226.PNG) | https://github.com/nba-emu/NanoBoyAdvance/issues/90 |
 | Pinball Tycoon (USA) | Scoreboard renders incorrectly | ![](https://user-images.githubusercontent.com/13669774/133426666-5adbf5fc-fd34-4e16-909c-85c3e934ee89.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/177 |
 | Pokémon Emerald | Sprites in title screen are partially rendered | ![](https://user-images.githubusercontent.com/13669774/112904697-98c8ac80-90e9-11eb-9650-f3ec2792a12a.png) | https://github.com/nba-emu/NanoBoyAdvance/issues/146 |
-| Pokémon Emerald | Fog and underwater don't blend | ![](https://media.discordapp.net/attachments/465586361731121162/805716419638460426/unknown.png) | https://github.com/mattrberry/crab/commit/805e860 |
+| Pokémon Emerald | Fog and underwater don't blend | ![](https://media.discordapp.net/attachments/465586361731121162/805716419638460426/unknown.png) | https://github.com/mattrbeck/crab/commit/805e860 |
 | Pokémon Emerald | Broken fog effect | ![](https://user-images.githubusercontent.com/47043333/191386412-62ea1106-9f69-4fcd-a87a-5d8c0215dd89.png) | https://github.com/ITotalJustice/notorious_beeg/issues/97 |
 | Pokémon Emerald | Improper cloud "wave" effect | ![](https://user-images.githubusercontent.com/22038970/175495377-87d02295-0d2c-4851-ba4a-cdddb7ca1d44.mp4) | https://github.com/paoda/zba/issues/1 |
-| Pokémon Emerald | Stripes over logo on title screen | | https://github.com/mattrberry/crab/commit/26b521a |
+| Pokémon Emerald | Stripes over logo on title screen | | https://github.com/mattrbeck/crab/commit/26b521a |
 | Pokémon FireRed | Oak's feet are visible in gender selection screen | ![](https://user-images.githubusercontent.com/1358414/159525196-0870947c-e374-4f6e-88dd-4cdcb8df5f3c.png) | https://github.com/DaveTCode/GBADotnet/issues/20 |
 | Pokémon FireRed | Logo is brightened incorrectly | ![](https://user-images.githubusercontent.com/1358414/159719262-c21a6b69-f88e-4c36-b283-50f0645e783e.png) | https://github.com/DaveTCode/GBADotnet/issues/24 |
 | Pokémon Mystery Dungeon | Text box background doesn't fill box | ![](https://user-images.githubusercontent.com/47043333/163285263-40d84fb4-b7d4-41c1-9e7b-1786c2102b6d.png) | https://github.com/ITotalJustice/notorious_beeg/issues/51 |
@@ -91,7 +91,7 @@ This list is intended to help emulator devlopers share knowledge of bugs they en
 | Sword of Mana | Audio Pops During Intro | ![](https://user-images.githubusercontent.com/47043333/164979190-4b6a7e6a-e3b5-42d5-80f9-cef6bbb55c83.png) | https://github.com/ITotalJustice/notorious_beeg/issues/69 |
 | Tactics Ogre | Odd tile effect during startup | ![](https://user-images.githubusercontent.com/1358414/159805043-84cd81f0-5787-49ce-8b85-ed9c4fbf8486.png) | https://github.com/DaveTCode/GBADotnet/issues/27 |
 | Tactics Ogre | Blending not working with windows | ![](https://user-images.githubusercontent.com/1358414/160657978-70070596-5c24-4f9c-a1a5-07fdec0052eb.png) | https://github.com/DaveTCode/GBADotnet/issues/50 |
-| Tactics Ogre | Hangs on black screen after "new game" | ![](https://user-images.githubusercontent.com/22065329/175760907-9a0d646a-a2e9-4283-9b0e-b020bae3d020.png) | https://github.com/mattrberry/crab/issues/7 |
+| Tactics Ogre | Hangs on black screen after "new game" | ![](https://user-images.githubusercontent.com/22065329/175760907-9a0d646a-a2e9-4283-9b0e-b020bae3d020.png) | https://github.com/mattrbeck/crab/issues/7 |
 | Tales of Phantasia | Text box scrolls with the background | ![](https://user-images.githubusercontent.com/47043333/163222649-f16f9bb2-798a-4b7b-ba46-598c8344d380.mp4) | https://github.com/ITotalJustice/notorious_beeg/issues/48 |
 | The Legend of Zelda: A Link to the Past | Flickering background in choose game screen | ![](https://user-images.githubusercontent.com/29958696/103410557-26891000-4b6c-11eb-9c0e-8e09aad391b4.png) | https://github.com/jsmolka/eggvance/issues/8 |
 | The Legend of Zelda: The Minish Cap | Mising "Roll" object text | ![](https://user-images.githubusercontent.com/47043333/162972337-a99c85e6-dfb5-4b22-8f33-02a77980c97d.png) | https://github.com/ITotalJustice/notorious_beeg/issues/41 |
